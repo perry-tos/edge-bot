@@ -1,8 +1,6 @@
 name: Perry — ToS Change Watcher
 description: >-
-  Open GitHub issues when a third-party provider's Terms of Service change
-  affects a dependency in this repo. Your dependency list never leaves the
-  GitHub Actions runner.
+  Open GitHub issues when a third-party provider's Terms of Service change.
 author: Perry
 branding:
   icon: bell
