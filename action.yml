@@ -9,8 +9,7 @@ branding:
 inputs:
   github-token:
     description: >-
-      GitHub token used to open issues. Pass `${{ secrets.GITHUB_TOKEN }}`.
-      The workflow must declare `permissions: { issues: write }`.
+      GitHub token used to open issues.
     required: true
   package-glob:
     description: >-
